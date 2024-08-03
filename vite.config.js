@@ -12,7 +12,7 @@ export default defineConfig({
   server: {
     port: 4000
   },
-  base: 'https://github.com/stahsin00/purrfect-neighbors.git',
+  base: '/purrfect-neighbors/',
   build: {
     outDir: 'dist'
   }
