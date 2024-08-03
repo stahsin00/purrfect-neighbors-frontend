@@ -11,9 +11,5 @@ export default defineConfig({
   },
   server: {
     port: 4000
-  },
-  base: '/purrfect-neighbors/',
-  build: {
-    outDir: 'dist'
   }
 });
